@@ -1,0 +1,9 @@
+server:
+  port: 9089
+
+  tomcat:
+    uri-encoding: utf-8
+
+  servlet:
+    session:
+      timeout: 30m
